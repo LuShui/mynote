@@ -1,0 +1,156 @@
+<!-- 头部导航 -->
+<include file="Public/head" /> 
+
+<!--导航栏-->
+<include file="Public/left" /> 
+
+<style type="text/css">
+.box{
+	width: 500px;
+	min-height: 300px;
+	margin: 0 auto;
+		background-color: white;
+}
+#savebox{
+		width: 500px;
+	margin: 0 auto;
+	height: 40px;
+			background-color: white;
+
+
+}
+.item{
+	display: -webkit-box;
+	height: 60px;
+	line-height: 40px;
+	font-size: 16px;
+	text-align: center;
+	padding: 10px 0px;
+}
+.left{
+	width:100px;
+}
+.right{
+	-webkit-box-flex:1;
+}
+input{
+	display: block;
+	outline: none;
+	border: none;
+	height: 40px;
+	width: 400px;
+	text-indent: 15px;
+}
+select{
+	display: block;
+	height: 40px;
+	width: 160px;
+	text-align: center;
+	text-indent: 1em;
+	font-size: 16px;
+	outline: none;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	border: 1px solid #3399CC;
+	border-bottom-right-radius: 5px;
+	border-top-right-radius: 5px;
+
+	}
+	option{
+	display: block;
+	height: 30px;
+	line-height: 30px;
+	}
+	#sendbutton{
+		display: block;
+		width: 100px;
+		border-radius:5px;
+		height: 40px;
+		line-height: 40px;
+		text-align: center;
+		font-size: 16px;
+		color: white;
+		background: #3399CC;
+
+	}
+</style>
+
+
+<div class="col-sm-9 col-sm-offset-3 col-md-10 col-lg-10 col-md-offset-2 main" id="main">
+    <div class="box">
+    	<div class="item">
+    		<div class="left">书签标题</div>
+			<div class="right">
+				<input type="text" name="sqtitle" placeholder="请输入标题">
+			</div>
+    	</div>
+
+    	<div class="item">
+    		<div class="left">书签链接</div>
+			<div class="right">
+				<input type="text" name="sqtitle" placeholder="请输入书签链接">
+			</div>
+    	</div>
+
+    	<div class="item">
+    		<div class="left">书签类型</div>
+			<div class="right" style="text-align: left;margin-left:15px; ">
+				<select id="select"  name="type">
+		          <option value="1">css</option>
+		          <option value="2">javascript</option>
+		          <option value="3">html</option>
+		          <option value="4">mysql</option>
+		          <option value="5">php</option>
+		          <option value="6">其他</option>
+		        </select>
+
+			</div>
+    	</div>
+
+    	<div class="item">
+    		<div class="left">书签描述</div>
+			<div class="right">
+				<input type="text" name="sqtitle" placeholder="请输入书签描述">
+			</div>
+    	</div>
+    </div>  
+
+
+    <div id="savebox">
+		<a id="sendbutton">保存</a>
+    </div>
+</div>
+</section>
+<script src="__PUBLIC__/js/bootstrap.min.js"></script> 
+<script src="__PUBLIC__/js/admin-scripts.js"></script>
+<script type="text/javascript">
+    function sendsoure(){
+    	layer.load();
+      	var url="__ROOT__/index.php/home/admin/savecontent";
+      	var data = {
+        	'titlename': titlename.value,
+          	'type': select.value,
+          	'desbute': desbute.value,
+          	'content': ue.getContent()
+      	}
+      	$.ajax({
+        	method: "POST",
+        	url:url,
+        	data:data,
+        	dataType:"json"
+      	}).done(function(ret){
+      		layer.closeAll('loading');
+          	if (parseInt(ret['code']) == 1) {
+          		layer.msg('添加成功');
+	          	setTimeout(function(){
+					window.location.reload();
+	         	 },1500);
+          	}else{
+          		layer.msg('怎么出错了');
+          	}
+        });
+    }
+</script>
+</body>
+</html>

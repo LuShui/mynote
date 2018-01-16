@@ -1,0 +1,58 @@
+[ 2017-06-25T23:07:45+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.039002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php ç¬¬ 52 è¡Œ.
+NOTIC: [2] mysql_connect(): ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ó·ï¿½ï¿½ï¿½Ò»ï¿½ï¿½Ê±ï¿½ï¿½ï¿½Ã»ï¿½ï¿½ï¿½È·ï¿½ð¸´»ï¿½Óµï¿½ï¿½ï¿½ï¿½Ã»ï¿½Ð·ï¿½Ó¦ï¿½ï¿½ï¿½ï¿½ï¿½Ó³ï¿½ï¿½ï¿½Ê§ï¿½Ü¡ï¿½
+ E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php ç¬¬ 52 è¡Œ.
+ERR: ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓÐÕýÈ·´ð¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓÐ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+
+
+[ 2017-06-25T23:08:17+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php ç¬¬ 52 è¡Œ.
+SQL: SHOW COLUMNS FROM `notetable` [ RunTime:0.116007s ]
+SQL: SELECT * FROM `notetable` ORDER BY id DESC  [ RunTime:2.998172s ]
+SQL: UPDATE `notetable` SET `addtime`=1497971288 WHERE ( id=70 ) [ RunTime:0.111006s ]
+SQL: UPDATE `notetable` SET `addtime`=1497798488 WHERE ( id=69 ) [ RunTime:0.103006s ]
+SQL: UPDATE `notetable` SET `addtime`=1497539288 WHERE ( id=68 ) [ RunTime:0.102006s ]
+SQL: UPDATE `notetable` SET `addtime`=1497193688 WHERE ( id=67 ) [ RunTime:0.102006s ]
+SQL: UPDATE `notetable` SET `addtime`=1496848088 WHERE ( id=66 ) [ RunTime:0.115006s ]
+SQL: UPDATE `notetable` SET `addtime`=1496675288 WHERE ( id=65 ) [ RunTime:0.106006s ]
+SQL: UPDATE `notetable` SET `addtime`=1496329688 WHERE ( id=64 ) [ RunTime:0.398023s ]
+SQL: UPDATE `notetable` SET `addtime`=1496156888 WHERE ( id=63 ) [ RunTime:0.134008s ]
+SQL: UPDATE `notetable` SET `addtime`=1495811288 WHERE ( id=62 ) [ RunTime:0.111006s ]
+SQL: UPDATE `notetable` SET `addtime`=1495379288 WHERE ( id=61 ) [ RunTime:0.114007s ]
+SQL: UPDATE `notetable` SET `addtime`=1495206488 WHERE ( id=54 ) [ RunTime:0.112006s ]
+SQL: UPDATE `notetable` SET `addtime`=1494860888 WHERE ( id=53 ) [ RunTime:0.106006s ]
+SQL: UPDATE `notetable` SET `addtime`=1494428888 WHERE ( id=52 ) [ RunTime:0.099006s ]
+SQL: UPDATE `notetable` SET `addtime`=1493996888 WHERE ( id=51 ) [ RunTime:0.100006s ]
+SQL: UPDATE `notetable` SET `addtime`=1493651288 WHERE ( id=50 ) [ RunTime:0.086005s ]
+SQL: UPDATE `notetable` SET `addtime`=1493392088 WHERE ( id=49 ) [ RunTime:0.096005s ]
+SQL: UPDATE `notetable` SET `addtime`=1493046488 WHERE ( id=48 ) [ RunTime:0.111006s ]
+SQL: UPDATE `notetable` SET `addtime`=1492700888 WHERE ( id=47 ) [ RunTime:0.097006s ]
+SQL: UPDATE `notetable` SET `addtime`=1492528088 WHERE ( id=46 ) [ RunTime:0.101006s ]
+SQL: UPDATE `notetable` SET `addtime`=1492268888 WHERE ( id=45 ) [ RunTime:0.095005s ]
+SQL: UPDATE `notetable` SET `addtime`=1491836888 WHERE ( id=44 ) [ RunTime:0.096006s ]
+SQL: UPDATE `notetable` SET `addtime`=1491577688 WHERE ( id=43 ) [ RunTime:0.112006s ]
+SQL: UPDATE `notetable` SET `addtime`=1491232088 WHERE ( id=42 ) [ RunTime:0.106006s ]
+SQL: UPDATE `notetable` SET `addtime`=1490886488 WHERE ( id=41 ) [ RunTime:0.113007s ]
+SQL: UPDATE `notetable` SET `addtime`=1490713688 WHERE ( id=40 ) [ RunTime:0.615035s ]
+SQL: UPDATE `notetable` SET `addtime`=1490454488 WHERE ( id=39 ) [ RunTime:0.133007s ]
+SQL: UPDATE `notetable` SET `addtime`=1490281688 WHERE ( id=38 ) [ RunTime:0.113006s ]
+SQL: UPDATE `notetable` SET `addtime`=1490022488 WHERE ( id=35 ) [ RunTime:0.102006s ]
+SQL: UPDATE `notetable` SET `addtime`=1489763288 WHERE ( id=29 ) [ RunTime:0.097005s ]
+SQL: UPDATE `notetable` SET `addtime`=1489504088 WHERE ( id=8 ) [ RunTime:0.099006s ]
+SQL: UPDATE `notetable` SET `addtime`=1489244888 WHERE ( id=4 ) [ RunTime:0.183011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.036002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.036002s ]
+

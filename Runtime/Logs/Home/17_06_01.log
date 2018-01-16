@@ -1,0 +1,1231 @@
+[ 2017-06-01T00:05:07+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: ÈùûÊ≥ïÊìç‰Ωú:timeupdate
+
+[ 2017-06-01T00:05:44+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.036002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.036002s ]
+
+[ 2017-06-01T00:05:46+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:47+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:47+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:05:48+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:48+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:55+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:05:55+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:56+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:56+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:56+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:05:56+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:56+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:56+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:57+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:05:57+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-01T00:05:57+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:05:57+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:57+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:58+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:58+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:58+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:58+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:59+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:05:59+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:00+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:01+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:01+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:01+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:01+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:02+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:02+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:11+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:12+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:12+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:12+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:12+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:12+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:13+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-01T00:06:13+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:13+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:13+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:13+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:13+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:13+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:13+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:13+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:13+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:13+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:13+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:13+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:14+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:14+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:14+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:14+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:14+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:15+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:15+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:15+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:15+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:15+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:16+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:16+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:06:16+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:16+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:06:16+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:09:28+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+SQL: SHOW COLUMNS FROM `notetable` [ RunTime:0.102006s ]
+SQL: SELECT * FROM `notetable`  [ RunTime:2.559146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-06-01T00:10:26+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-01T00:10:33+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+SQL: SHOW COLUMNS FROM `notetable` [ RunTime:0.195011s ]
+SQL: SELECT * FROM `notetable` WHERE ( addtime DESC )  [ RunTime:0.107006s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC )' at line 1
+ [ SQLËØ≠Âè• ] : SELECT * FROM `notetable` WHERE ( addtime DESC ) 
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\xampp\htdocs\tpnote\Apps\Home\Controller\AdminController.class.php Á¨¨ 14 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:10:50+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+SQL: SHOW COLUMNS FROM `notetable` [ RunTime:0.083005s ]
+SQL: SELECT * FROM `notetable` WHERE ( addtime DESC )  [ RunTime:0.062003s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC )' at line 1
+ [ SQLËØ≠Âè• ] : SELECT * FROM `notetable` WHERE ( addtime DESC ) 
+NOTIC: [2] Invalid argument supplied for foreach() E:\php\xampp\htdocs\tpnote\Apps\Home\Controller\AdminController.class.php Á¨¨ 15 Ë°å.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:11:09+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+SQL: SHOW COLUMNS FROM `notetable` [ RunTime:0.079005s ]
+SQL: SELECT * FROM `notetable` ORDER BY addtime DESC  [ RunTime:2.458140s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-01T00:13:31+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+SQL: SHOW COLUMNS FROM `notetable` [ RunTime:0.101006s ]
+SQL: SELECT * FROM `notetable` ORDER BY addtime DESC  [ RunTime:1.314075s ]
+SQL: UPDATE `notetable` SET `addtime`=1495728807 WHERE ( id=65 ) [ RunTime:0.081005s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074407 WHERE ( id=61 ) [ RunTime:0.096005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495728807 WHERE ( id=53 ) [ RunTime:0.146009s ]
+SQL: UPDATE `notetable` SET `addtime`=1495642407 WHERE ( id=52 ) [ RunTime:0.055003s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074407 WHERE ( id=51 ) [ RunTime:0.138008s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988007 WHERE ( id=50 ) [ RunTime:0.160009s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074407 WHERE ( id=49 ) [ RunTime:0.105006s ]
+SQL: UPDATE `notetable` SET `addtime`=1495901607 WHERE ( id=48 ) [ RunTime:0.066004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495642407 WHERE ( id=47 ) [ RunTime:0.075004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815207 WHERE ( id=46 ) [ RunTime:0.122007s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815207 WHERE ( id=45 ) [ RunTime:0.074004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815207 WHERE ( id=44 ) [ RunTime:0.073004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495901607 WHERE ( id=43 ) [ RunTime:0.082005s ]
+SQL: UPDATE `notetable` SET `addtime`=1496160807 WHERE ( id=42 ) [ RunTime:0.071004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495901607 WHERE ( id=41 ) [ RunTime:0.072004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815207 WHERE ( id=40 ) [ RunTime:0.083005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988007 WHERE ( id=39 ) [ RunTime:0.089005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495901607 WHERE ( id=38 ) [ RunTime:0.075004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495642407 WHERE ( id=35 ) [ RunTime:0.086005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988007 WHERE ( id=29 ) [ RunTime:0.059004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495642407 WHERE ( id=8 ) [ RunTime:0.065004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495728807 WHERE ( id=4 ) [ RunTime:0.088005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815207 WHERE ( id=62 ) [ RunTime:0.078004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988007 WHERE ( id=63 ) [ RunTime:0.078005s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074407 WHERE ( id=54 ) [ RunTime:0.067003s ]
+SQL: UPDATE `notetable` SET `addtime`=1495642407 WHERE ( id=64 ) [ RunTime:0.071005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-01T00:16:50+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+SQL: SHOW COLUMNS FROM `notetable` [ RunTime:0.065004s ]
+SQL: SELECT * FROM `notetable` ORDER BY addtime DESC  [ RunTime:1.125064s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988206 WHERE ( id=42 ) [ RunTime:0.067004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815406 WHERE ( id=49 ) [ RunTime:0.059003s ]
+SQL: UPDATE `notetable` SET `addtime`=1495642606 WHERE ( id=51 ) [ RunTime:0.079004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074606 WHERE ( id=54 ) [ RunTime:0.071004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815406 WHERE ( id=61 ) [ RunTime:0.064004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495642606 WHERE ( id=29 ) [ RunTime:0.086005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815406 WHERE ( id=39 ) [ RunTime:0.069004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495901806 WHERE ( id=50 ) [ RunTime:0.098005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495383406 WHERE ( id=63 ) [ RunTime:0.077005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556206 WHERE ( id=41 ) [ RunTime:0.072004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815406 WHERE ( id=38 ) [ RunTime:0.069004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556206 WHERE ( id=43 ) [ RunTime:0.070004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988206 WHERE ( id=48 ) [ RunTime:0.060003s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074606 WHERE ( id=40 ) [ RunTime:0.071004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495383406 WHERE ( id=44 ) [ RunTime:0.099005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815406 WHERE ( id=45 ) [ RunTime:0.076005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495383406 WHERE ( id=46 ) [ RunTime:0.080004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556206 WHERE ( id=62 ) [ RunTime:0.134008s ]
+SQL: UPDATE `notetable` SET `addtime`=1495729006 WHERE ( id=4 ) [ RunTime:0.104006s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988206 WHERE ( id=53 ) [ RunTime:0.089005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495642606 WHERE ( id=65 ) [ RunTime:0.076004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074606 WHERE ( id=8 ) [ RunTime:0.087005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988206 WHERE ( id=35 ) [ RunTime:0.072005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988206 WHERE ( id=47 ) [ RunTime:0.062003s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074606 WHERE ( id=52 ) [ RunTime:0.066004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074606 WHERE ( id=64 ) [ RunTime:0.063004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-01T00:17:56+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+SQL: SHOW COLUMNS FROM `notetable` [ RunTime:0.056003s ]
+SQL: SELECT * FROM `notetable` ORDER BY addtime DESC  [ RunTime:2.429139s ]
+SQL: UPDATE `notetable` SET `addtime`=1495729070 WHERE ( id=8 ) [ RunTime:0.080004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988270 WHERE ( id=40 ) [ RunTime:0.065004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495642670 WHERE ( id=52 ) [ RunTime:0.078005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988270 WHERE ( id=54 ) [ RunTime:0.056003s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556270 WHERE ( id=64 ) [ RunTime:0.061003s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815470 WHERE ( id=42 ) [ RunTime:0.068004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074670 WHERE ( id=35 ) [ RunTime:0.075005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495729070 WHERE ( id=47 ) [ RunTime:0.061003s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815470 WHERE ( id=48 ) [ RunTime:0.066004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495729070 WHERE ( id=53 ) [ RunTime:0.067004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556270 WHERE ( id=50 ) [ RunTime:0.093005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495901870 WHERE ( id=39 ) [ RunTime:0.072004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495729070 WHERE ( id=38 ) [ RunTime:0.093005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556270 WHERE ( id=45 ) [ RunTime:0.072005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495642670 WHERE ( id=49 ) [ RunTime:0.094005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556270 WHERE ( id=61 ) [ RunTime:0.072004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556270 WHERE ( id=4 ) [ RunTime:0.077005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495469870 WHERE ( id=29 ) [ RunTime:0.075004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495469870 WHERE ( id=51 ) [ RunTime:0.067004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495901870 WHERE ( id=65 ) [ RunTime:0.067003s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988270 WHERE ( id=41 ) [ RunTime:0.103005s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074670 WHERE ( id=43 ) [ RunTime:0.054004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495729070 WHERE ( id=62 ) [ RunTime:0.064003s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556270 WHERE ( id=44 ) [ RunTime:0.070004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815470 WHERE ( id=46 ) [ RunTime:0.066004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074670 WHERE ( id=63 ) [ RunTime:0.049003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:18:36+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+SQL: SHOW COLUMNS FROM `notetable` [ RunTime:0.070004s ]
+SQL: SELECT * FROM `notetable` ORDER BY addtime DESC  [ RunTime:3.066176s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556310 WHERE ( id=35 ) [ RunTime:0.062003s ]
+SQL: UPDATE `notetable` SET `addtime`=1495642710 WHERE ( id=43 ) [ RunTime:0.067004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495729110 WHERE ( id=63 ) [ RunTime:0.089005s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074710 WHERE ( id=41 ) [ RunTime:0.172010s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815510 WHERE ( id=40 ) [ RunTime:0.179010s ]
+SQL: UPDATE `notetable` SET `addtime`=1495383510 WHERE ( id=54 ) [ RunTime:0.091006s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074710 WHERE ( id=39 ) [ RunTime:0.073004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556310 WHERE ( id=65 ) [ RunTime:0.071004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495383510 WHERE ( id=42 ) [ RunTime:0.095005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495901910 WHERE ( id=46 ) [ RunTime:0.062004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495901910 WHERE ( id=48 ) [ RunTime:0.364021s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815510 WHERE ( id=8 ) [ RunTime:0.083004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495901910 WHERE ( id=38 ) [ RunTime:0.062004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815510 WHERE ( id=47 ) [ RunTime:0.065004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495729110 WHERE ( id=53 ) [ RunTime:0.082004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556310 WHERE ( id=62 ) [ RunTime:0.095006s ]
+SQL: UPDATE `notetable` SET `addtime`=1495729110 WHERE ( id=49 ) [ RunTime:0.083005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495383510 WHERE ( id=52 ) [ RunTime:0.088005s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074710 WHERE ( id=4 ) [ RunTime:0.087005s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074710 WHERE ( id=44 ) [ RunTime:0.066004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495642710 WHERE ( id=45 ) [ RunTime:0.087005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556310 WHERE ( id=50 ) [ RunTime:0.048002s ]
+SQL: UPDATE `notetable` SET `addtime`=1495729110 WHERE ( id=61 ) [ RunTime:0.059004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495469910 WHERE ( id=64 ) [ RunTime:0.059003s ]
+SQL: UPDATE `notetable` SET `addtime`=1495383510 WHERE ( id=29 ) [ RunTime:0.063004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495901910 WHERE ( id=51 ) [ RunTime:0.079004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-01T00:18:59+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+SQL: SHOW COLUMNS FROM `notetable` [ RunTime:0.088005s ]
+SQL: SELECT * FROM `notetable` ORDER BY addtime DESC  [ RunTime:3.704211s ]
+SQL: UPDATE `notetable` SET `addtime`=1495469932 WHERE ( id=41 ) [ RunTime:0.054004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495729132 WHERE ( id=4 ) [ RunTime:0.051002s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815532 WHERE ( id=39 ) [ RunTime:0.066004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495642732 WHERE ( id=44 ) [ RunTime:0.070004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556332 WHERE ( id=38 ) [ RunTime:0.069004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556332 WHERE ( id=46 ) [ RunTime:0.073004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988332 WHERE ( id=48 ) [ RunTime:0.411024s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988332 WHERE ( id=51 ) [ RunTime:0.088005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495901932 WHERE ( id=8 ) [ RunTime:0.067004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556332 WHERE ( id=40 ) [ RunTime:0.097005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988332 WHERE ( id=47 ) [ RunTime:0.081005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495469932 WHERE ( id=49 ) [ RunTime:0.067004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074732 WHERE ( id=53 ) [ RunTime:0.074004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988332 WHERE ( id=63 ) [ RunTime:0.065004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556332 WHERE ( id=61 ) [ RunTime:0.072004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495901932 WHERE ( id=43 ) [ RunTime:0.067004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074732 WHERE ( id=45 ) [ RunTime:0.071004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815532 WHERE ( id=35 ) [ RunTime:0.086005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495469932 WHERE ( id=50 ) [ RunTime:0.086005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495901932 WHERE ( id=62 ) [ RunTime:0.069004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074732 WHERE ( id=65 ) [ RunTime:0.375021s ]
+SQL: UPDATE `notetable` SET `addtime`=1495383532 WHERE ( id=64 ) [ RunTime:0.061004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495642732 WHERE ( id=42 ) [ RunTime:0.068004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495815532 WHERE ( id=29 ) [ RunTime:0.067004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074732 WHERE ( id=52 ) [ RunTime:0.077004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988332 WHERE ( id=54 ) [ RunTime:0.080005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-01T00:20:05+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+SQL: SHOW COLUMNS FROM `notetable` [ RunTime:0.062003s ]
+SQL: SELECT * FROM `notetable` ORDER BY addtime DESC  [ RunTime:3.929225s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=45 ) [ RunTime:0.069004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=52 ) [ RunTime:0.076004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=53 ) [ RunTime:0.068004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=65 ) [ RunTime:0.062004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=47 ) [ RunTime:0.064004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=48 ) [ RunTime:0.088005s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=51 ) [ RunTime:0.068004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=54 ) [ RunTime:0.058003s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=63 ) [ RunTime:0.072004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=8 ) [ RunTime:0.079005s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=43 ) [ RunTime:0.086005s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=62 ) [ RunTime:0.084004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=29 ) [ RunTime:0.070004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=35 ) [ RunTime:0.092006s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=39 ) [ RunTime:0.060003s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=4 ) [ RunTime:0.071004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=42 ) [ RunTime:0.080005s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=44 ) [ RunTime:0.063003s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=40 ) [ RunTime:0.063004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=38 ) [ RunTime:0.096006s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=46 ) [ RunTime:0.111006s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=61 ) [ RunTime:0.071004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=41 ) [ RunTime:0.074004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=49 ) [ RunTime:0.063004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=50 ) [ RunTime:0.087005s ]
+SQL: UPDATE `notetable` SET `addtime`=1496161198 WHERE ( id=64 ) [ RunTime:0.078004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-01T00:22:19+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+SQL: SHOW COLUMNS FROM `notetable` [ RunTime:0.079005s ]
+SQL: SELECT * FROM `notetable` ORDER BY addtime DESC  [ RunTime:3.433196s ]
+SQL: UPDATE `notetable` SET `addtime`=1495383732 WHERE ( id=41 ) [ RunTime:0.077004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495383732 WHERE ( id=42 ) [ RunTime:0.086005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988532 WHERE ( id=4 ) [ RunTime:0.079004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495642932 WHERE ( id=8 ) [ RunTime:0.073005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495902132 WHERE ( id=29 ) [ RunTime:0.078004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988532 WHERE ( id=35 ) [ RunTime:0.080005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495470132 WHERE ( id=40 ) [ RunTime:0.068003s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988532 WHERE ( id=39 ) [ RunTime:0.077005s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074932 WHERE ( id=38 ) [ RunTime:0.069004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495729332 WHERE ( id=43 ) [ RunTime:0.080004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495902132 WHERE ( id=44 ) [ RunTime:0.085005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495383732 WHERE ( id=45 ) [ RunTime:0.115007s ]
+SQL: UPDATE `notetable` SET `addtime`=1495902132 WHERE ( id=46 ) [ RunTime:0.077004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988532 WHERE ( id=47 ) [ RunTime:0.082005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495902132 WHERE ( id=48 ) [ RunTime:0.073004s ]
+SQL: UPDATE `notetable` SET `addtime`=1496074932 WHERE ( id=49 ) [ RunTime:0.084005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495729332 WHERE ( id=50 ) [ RunTime:0.073004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495470132 WHERE ( id=51 ) [ RunTime:0.082005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495988532 WHERE ( id=52 ) [ RunTime:0.086005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495470132 WHERE ( id=53 ) [ RunTime:0.084005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495470132 WHERE ( id=54 ) [ RunTime:0.085005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495470132 WHERE ( id=62 ) [ RunTime:0.071004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556532 WHERE ( id=63 ) [ RunTime:0.082005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495902132 WHERE ( id=61 ) [ RunTime:0.085005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495383732 WHERE ( id=64 ) [ RunTime:0.079004s ]
+SQL: UPDATE `notetable` SET `addtime`=1495556532 WHERE ( id=65 ) [ RunTime:0.080005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-06-01T00:23:02+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+SQL: SHOW COLUMNS FROM `notetable` [ RunTime:0.094005s ]
+SQL: SELECT * FROM `notetable` ORDER BY addtime DESC  [ RunTime:2.660152s ]
+SQL: UPDATE `notetable` SET `addtime`=1495729375 WHERE ( id=38 ) [ RunTime:0.091006s ]
+SQL: UPDATE `notetable` SET `addtime`=1494951775 WHERE ( id=49 ) [ RunTime:0.088005s ]
+SQL: UPDATE `notetable` SET `addtime`=1494174175 WHERE ( id=4 ) [ RunTime:0.098005s ]
+SQL: UPDATE `notetable` SET `addtime`=1493396575 WHERE ( id=35 ) [ RunTime:0.090005s ]
+SQL: UPDATE `notetable` SET `addtime`=1493223775 WHERE ( id=39 ) [ RunTime:0.083005s ]
+SQL: UPDATE `notetable` SET `addtime`=1492705375 WHERE ( id=47 ) [ RunTime:0.091005s ]
+SQL: UPDATE `notetable` SET `addtime`=1492446175 WHERE ( id=52 ) [ RunTime:0.079005s ]
+SQL: UPDATE `notetable` SET `addtime`=1491582175 WHERE ( id=29 ) [ RunTime:0.088005s ]
+SQL: UPDATE `notetable` SET `addtime`=1491409375 WHERE ( id=44 ) [ RunTime:0.069004s ]
+SQL: UPDATE `notetable` SET `addtime`=1490631775 WHERE ( id=46 ) [ RunTime:0.078004s ]
+SQL: UPDATE `notetable` SET `addtime`=1490458975 WHERE ( id=48 ) [ RunTime:0.392023s ]
+SQL: UPDATE `notetable` SET `addtime`=1490286175 WHERE ( id=61 ) [ RunTime:1.002057s ]
+SQL: UPDATE `notetable` SET `addtime`=1490113375 WHERE ( id=43 ) [ RunTime:0.080005s ]
+SQL: UPDATE `notetable` SET `addtime`=1489422175 WHERE ( id=50 ) [ RunTime:0.092005s ]
+SQL: UPDATE `notetable` SET `addtime`=1488558175 WHERE ( id=8 ) [ RunTime:0.092005s ]
+SQL: UPDATE `notetable` SET `addtime`=1488298975 WHERE ( id=63 ) [ RunTime:0.085005s ]
+SQL: UPDATE `notetable` SET `addtime`=1487780575 WHERE ( id=65 ) [ RunTime:0.087005s ]
+SQL: UPDATE `notetable` SET `addtime`=1487175775 WHERE ( id=40 ) [ RunTime:0.091005s ]
+SQL: UPDATE `notetable` SET `addtime`=1487002975 WHERE ( id=51 ) [ RunTime:0.092005s ]
+SQL: UPDATE `notetable` SET `addtime`=1486657375 WHERE ( id=53 ) [ RunTime:0.096005s ]
+SQL: UPDATE `notetable` SET `addtime`=1486311775 WHERE ( id=54 ) [ RunTime:0.070004s ]
+SQL: UPDATE `notetable` SET `addtime`=1485793375 WHERE ( id=62 ) [ RunTime:0.088005s ]
+SQL: UPDATE `notetable` SET `addtime`=1484929375 WHERE ( id=41 ) [ RunTime:0.087005s ]
+SQL: UPDATE `notetable` SET `addtime`=1484670175 WHERE ( id=42 ) [ RunTime:0.090005s ]
+SQL: UPDATE `notetable` SET `addtime`=1483978975 WHERE ( id=45 ) [ RunTime:0.075004s ]
+SQL: UPDATE `notetable` SET `addtime`=1483114975 WHERE ( id=64 ) [ RunTime:0.086005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-01T00:23:50+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+NOTIC: [2] mysql_connect(): ÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩ”∑ÔøΩÔøΩÔøΩ“ªÔøΩÔøΩ ±ÔøΩÔøΩÔøΩ√ªÔøΩÔøΩÔøΩ»∑ÔøΩ∏¥ªÔøΩ”µÔøΩÔøΩÔøΩÔøΩ√ªÔøΩ–∑ÔøΩ”¶ÔøΩÔøΩÔøΩÔøΩÔøΩ”≥ÔøΩÔøΩÔøΩ ßÔøΩ‹°ÔøΩ
+ E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+ERR: ”…”⁄¡¨Ω”∑Ω‘⁄“ª∂Œ ±º‰∫Û√ª”–’˝»∑¥∏¥ªÚ¡¨Ω”µƒ÷˜ª˙√ª”–∑¥”¶£¨¡¨Ω”≥¢ ‘ ß∞‹°£
+
+
+[ 2017-06-01T00:24:26+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+SQL: SHOW COLUMNS FROM `notetable` [ RunTime:0.133008s ]
+SQL: SELECT * FROM `notetable` ORDER BY addtime DESC  [ RunTime:5.624321s ]
+SQL: UPDATE `notetable` SET `addtime`=1495729457 WHERE ( id=38 ) [ RunTime:0.076005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495470257 WHERE ( id=49 ) [ RunTime:0.062003s ]
+SQL: UPDATE `notetable` SET `addtime`=1494951857 WHERE ( id=4 ) [ RunTime:0.065004s ]
+SQL: UPDATE `notetable` SET `addtime`=1494433457 WHERE ( id=35 ) [ RunTime:0.057003s ]
+SQL: UPDATE `notetable` SET `addtime`=1494174257 WHERE ( id=39 ) [ RunTime:0.058004s ]
+SQL: UPDATE `notetable` SET `addtime`=1493655857 WHERE ( id=47 ) [ RunTime:0.060003s ]
+SQL: UPDATE `notetable` SET `addtime`=1493310257 WHERE ( id=52 ) [ RunTime:0.059003s ]
+SQL: UPDATE `notetable` SET `addtime`=1492878257 WHERE ( id=29 ) [ RunTime:0.064003s ]
+SQL: UPDATE `notetable` SET `addtime`=1492273457 WHERE ( id=44 ) [ RunTime:0.082005s ]
+SQL: UPDATE `notetable` SET `addtime`=1491841457 WHERE ( id=46 ) [ RunTime:0.087005s ]
+SQL: UPDATE `notetable` SET `addtime`=1491236657 WHERE ( id=48 ) [ RunTime:0.090005s ]
+SQL: UPDATE `notetable` SET `addtime`=1490977457 WHERE ( id=61 ) [ RunTime:0.074004s ]
+SQL: UPDATE `notetable` SET `addtime`=1490372657 WHERE ( id=43 ) [ RunTime:0.082005s ]
+SQL: UPDATE `notetable` SET `addtime`=1489854257 WHERE ( id=50 ) [ RunTime:0.078004s ]
+SQL: UPDATE `notetable` SET `addtime`=1489508657 WHERE ( id=8 ) [ RunTime:0.088005s ]
+SQL: UPDATE `notetable` SET `addtime`=1488903857 WHERE ( id=63 ) [ RunTime:0.066004s ]
+SQL: UPDATE `notetable` SET `addtime`=1488644657 WHERE ( id=65 ) [ RunTime:0.074005s ]
+SQL: UPDATE `notetable` SET `addtime`=1488039857 WHERE ( id=40 ) [ RunTime:0.087005s ]
+SQL: UPDATE `notetable` SET `addtime`=1487607857 WHERE ( id=51 ) [ RunTime:0.083004s ]
+SQL: UPDATE `notetable` SET `addtime`=1487348657 WHERE ( id=53 ) [ RunTime:0.086005s ]
+SQL: UPDATE `notetable` SET `addtime`=1487089457 WHERE ( id=54 ) [ RunTime:0.078005s ]
+SQL: UPDATE `notetable` SET `addtime`=1486571057 WHERE ( id=62 ) [ RunTime:0.069004s ]
+SQL: UPDATE `notetable` SET `addtime`=1486311857 WHERE ( id=41 ) [ RunTime:0.080004s ]
+SQL: UPDATE `notetable` SET `addtime`=1486052657 WHERE ( id=42 ) [ RunTime:0.082005s ]
+SQL: UPDATE `notetable` SET `addtime`=1485707057 WHERE ( id=45 ) [ RunTime:0.061004s ]
+SQL: UPDATE `notetable` SET `addtime`=1485361457 WHERE ( id=64 ) [ RunTime:0.068003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-06-01T00:24:43+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+NOTIC: [2] mysql_connect(): ÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩ”∑ÔøΩÔøΩÔøΩ“ªÔøΩÔøΩ ±ÔøΩÔøΩÔøΩ√ªÔøΩÔøΩÔøΩ»∑ÔøΩ∏¥ªÔøΩ”µÔøΩÔøΩÔøΩÔøΩ√ªÔøΩ–∑ÔøΩ”¶ÔøΩÔøΩÔøΩÔøΩÔøΩ”≥ÔøΩÔøΩÔøΩ ßÔøΩ‹°ÔøΩ
+ E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+ERR: ”…”⁄¡¨Ω”∑Ω‘⁄“ª∂Œ ±º‰∫Û√ª”–’˝»∑¥∏¥ªÚ¡¨Ω”µƒ÷˜ª˙√ª”–∑¥”¶£¨¡¨Ω”≥¢ ‘ ß∞‹°£
+
+
+[ 2017-06-01T00:25:01+08:00 ] ::1 /tpnote/index.php/home/admin/timeupdate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\php\xampp\htdocs\tpnote\ThinkPHP\Library\Think\Db\Driver\Mysql.class.php Á¨¨ 52 Ë°å.
+SQL: SHOW COLUMNS FROM `notetable` [ RunTime:0.090005s ]
+SQL: SELECT * FROM `notetable` ORDER BY addtime DESC  [ RunTime:6.626379s ]
+SQL: UPDATE `notetable` SET `addtime`=1495902290 WHERE ( id=38 ) [ RunTime:0.091005s ]
+SQL: UPDATE `notetable` SET `addtime`=1495470290 WHERE ( id=49 ) [ RunTime:0.110007s ]
+SQL: UPDATE `notetable` SET `addtime`=1495038290 WHERE ( id=4 ) [ RunTime:0.078004s ]
+SQL: UPDATE `notetable` SET `addtime`=1494779090 WHERE ( id=35 ) [ RunTime:0.080005s ]
+SQL: UPDATE `notetable` SET `addtime`=1494433490 WHERE ( id=39 ) [ RunTime:1.001057s ]
+SQL: UPDATE `notetable` SET `addtime`=1494001490 WHERE ( id=47 ) [ RunTime:0.073004s ]
+SQL: UPDATE `notetable` SET `addtime`=1493569490 WHERE ( id=52 ) [ RunTime:0.082005s ]
+SQL: UPDATE `notetable` SET `addtime`=1493310290 WHERE ( id=29 ) [ RunTime:0.081005s ]
+SQL: UPDATE `notetable` SET `addtime`=1492878290 WHERE ( id=44 ) [ RunTime:0.080004s ]
+SQL: UPDATE `notetable` SET `addtime`=1492705490 WHERE ( id=46 ) [ RunTime:0.083005s ]
+SQL: UPDATE `notetable` SET `addtime`=1492446290 WHERE ( id=48 ) [ RunTime:0.095006s ]
+SQL: UPDATE `notetable` SET `addtime`=1492100690 WHERE ( id=61 ) [ RunTime:0.084004s ]
+SQL: UPDATE `notetable` SET `addtime`=1491755090 WHERE ( id=43 ) [ RunTime:0.091006s ]
+SQL: UPDATE `notetable` SET `addtime`=1491323090 WHERE ( id=50 ) [ RunTime:0.088005s ]
+SQL: UPDATE `notetable` SET `addtime`=1491150290 WHERE ( id=8 ) [ RunTime:0.078004s ]
+SQL: UPDATE `notetable` SET `addtime`=1490718290 WHERE ( id=63 ) [ RunTime:0.095006s ]
+SQL: UPDATE `notetable` SET `addtime`=1490286290 WHERE ( id=65 ) [ RunTime:0.095005s ]
+SQL: UPDATE `notetable` SET `addtime`=1490027090 WHERE ( id=40 ) [ RunTime:0.072004s ]
+SQL: UPDATE `notetable` SET `addtime`=1489595090 WHERE ( id=51 ) [ RunTime:0.085005s ]
+SQL: UPDATE `notetable` SET `addtime`=1489335890 WHERE ( id=53 ) [ RunTime:0.081005s ]
+SQL: UPDATE `notetable` SET `addtime`=1488903890 WHERE ( id=54 ) [ RunTime:0.100006s ]
+SQL: UPDATE `notetable` SET `addtime`=1488471890 WHERE ( id=62 ) [ RunTime:0.089005s ]
+SQL: UPDATE `notetable` SET `addtime`=1488126290 WHERE ( id=41 ) [ RunTime:0.096005s ]
+SQL: UPDATE `notetable` SET `addtime`=1487780690 WHERE ( id=42 ) [ RunTime:0.102006s ]
+SQL: UPDATE `notetable` SET `addtime`=1487521490 WHERE ( id=45 ) [ RunTime:0.118007s ]
+SQL: UPDATE `notetable` SET `addtime`=1487262290 WHERE ( id=64 ) [ RunTime:0.081004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
