@@ -1,0 +1,238 @@
+.header{
+    background-color: #e6e6e6;
+    height: 50px;
+
+}
+.blgo-titlename{
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    color: #1296db;
+    font-size: 24px;
+}
+.blgo-catename{
+    display: none;
+    height: 50px;
+    text-align: right;
+    line-height: 50px;
+    color: #666666;
+}
+.blgo-catename > a{
+    display: inline-block;
+    vertical-align: top;
+    height: 50px;
+    margin-right:10px;
+    padding: 0px 15px;
+    cursor: pointer;
+    color: #666666;
+}
+.blgo-catename > a:hover{
+    color: #1296db;
+    text-decoration: none;
+}
+
+/**/
+.adbox{
+    display: none;
+}
+.artleitem{
+    padding: 10px 0px;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.contentbox{
+    width: 100%;
+    padding-top: 10px;
+}
+.artle-title-box{
+    cursor: pointer;
+}
+.artlebox{
+    display: block;
+    cursor: pointer;
+}
+.artlebox:hover{
+    text-decoration: none;
+    color: #333333;
+}
+.artle-category{
+    float: left;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    padding: 0px 10px;
+    background-color: #C7EDCC;
+    color: #1296db;
+    position: relative;
+}
+.artle-category:after{
+    display: block;
+    content: '';
+    background-color: #C7EDCC;
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    right: -24px;
+    top: 0px;
+    border: 12px solid #C7EDCC;
+    border-right: 12px solid white;
+    border-top: 12px solid white;
+    border-bottom: 12px solid white;
+
+}
+.artle-titlename{
+    line-height: 24px;
+    font-size: 16px;
+    text-indent: 24px;
+    font-weight: bold;
+    color: black;
+}
+.artil-content-box{
+    padding: 5px 0px;
+    font-size: 14px;
+    line-height: 1.52em;
+    word-break:break-all;
+    display:-webkit-box;
+    -webkit-line-clamp:3;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+}
+.artil-info-box{
+    padding: 5px 0px;
+    overflow: hidden;
+    height: 26px;
+}
+.artle-icon{
+    display: inline-block;
+    height: 13px;
+    vertical-align: middle;
+}
+.artle-time-span{
+    display: inline-block;
+    padding-right: 15px;
+    font-size: 13px;
+    height: 13px;
+    line-height: 13px;
+    vertical-align: middle;
+    overflow: hidden;
+}
+
+
+/**/
+
+/* 小屏幕（平板，大于等于 768px） */
+@media (min-width: 786px) {
+    .blgo-catename{
+        display: block;
+        height: 50px;
+        text-align: right;
+        line-height: 50px;
+        color: #666666;
+    }
+    .blgo-catename > a{
+        display: inline-block;
+        vertical-align: top;
+        height: 50px;
+        margin-right:10px;
+        padding: 0px 15px;
+        cursor: pointer;
+        color: #666666;
+    }
+    .blgo-catename > a:hover{
+        color: #1296db;
+        text-decoration: none;
+    }
+    /*文章css*/
+    .adbox{
+        display: block;
+    }
+    artil-content-box{
+        font-size: 16px;
+    }
+    .artle-time-span{
+        padding-right: 30px;
+    }
+
+    /*ad css*/
+    .aditem{
+        height: 40px;
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+    .adbutton{
+        display: block;
+        height: 40px;
+        line-height: 40px;
+        background-color: #C7EDCC;
+        color: #999999;
+        cursor: pointer;
+        text-align: center;
+    }
+    .adbutton:hover{
+        text-decoration: none;
+        background-color: #1296db;
+        color: white;
+    }
+}
+
+/**/
+/* 中等屏幕（桌面显示器，大于等于 992px） */
+@media (min-width: 992px) {
+    .blgo-catename{
+        display: block;
+        height: 50px;
+        text-align: right;
+        line-height: 50px;
+        color: #666666;
+    }
+    .blgo-catename > a{
+        display: inline-block;
+        vertical-align: top;
+        height: 50px;
+        margin-right:10px;
+        padding: 0px 15px;
+        cursor: pointer;
+        color: #666666;
+    }
+    .blgo-catename > a:hover{
+        color: #1296db;
+        text-decoration: none;
+    }
+    .adbox{
+        display: block;
+    }
+    .artle-time-span{
+        padding-right: 40px;
+    }
+}
+
+/**/
+/* 大屏幕（大桌面显示器，大于等于 1200px） */
+@media (min-width: 1200px) {
+    .blgo-catename{
+        display: block;
+        height: 50px;
+        text-align: right;
+        line-height: 50px;
+        color: #666666;
+    }
+    .blgo-catename > a{
+        display: inline-block;
+        vertical-align: top;
+        height: 50px;
+        margin-right:10px;
+        padding: 0px 15px;
+        cursor: pointer;
+        color: #666666;
+    }
+    .blgo-catename > a:hover{
+        color: #1296db;
+        text-decoration: none;
+    }
+    .adbox{
+        display: block;
+    }
+    .artle-time-span{
+        padding-right: 50px;
+    }
+}

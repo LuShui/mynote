@@ -1,8 +1,9 @@
 <?php
-namespace Home\Controller;
+namespace Web\Controller;
 use Think\Controller;
 class IndexController extends Controller {
-    public function add(){
+
+    public function index(){
     	$this->display();
     }
 }
