@@ -61,7 +61,7 @@
                 </ul>
             </div>
             <div class="adbox col-sm-3 col-md-3 col-lg-3">
-                <ul class="adlist">
+                <!-- <ul class="adlist">
                     <li class="aditem">
                         <a target="_blank" class="adbutton" href="https://js001.lieshazhe.com/c.php?id=1555">广告位</a>
                     </li>
@@ -80,10 +80,14 @@
                     <li class="aditem">
                         <a target="_blank" class="adbutton" href="https://js001.lieshazhe.com/c.php?id=1509">广告位</a>
                     </li>
-                </ul>
+                </ul> -->
             </div>
         </div>
+
+        <div id="loadbox" style="height: 100px;"></div>
+
     </div>
+
 </body>
 <script type="text/javascript">
 
@@ -97,19 +101,22 @@ $(function(){
     }); 
 
     function getSoure(pageindex){
-        $("body").mLoading('show');
+        $("#loadbox").mLoading('show');
         $.ajax({  
             type:'post',  
-            dataType:'json',  
+            dataType:'json',
+            data:{
+                'pageindex':pageindex
+            } , 
             url:"<?php echo U('index.php/Web/index/homesoure');?>",  
             success:function(res){ 
                 if (res.code == 1) {
                     htmlrender(res.ctn);
                 }
-                $('body').mLoading("hide"); 
+                $('#loadbox').mLoading("hide"); 
             } ,
             fail:function(){
-                $('body').mLoading("hide");
+                $('#loadbox').mLoading("hide");
             } 
         });
     };
@@ -154,11 +161,7 @@ $(function(){
 
     function gotodetil(id){
         var url = "<?php echo U('index.php/Web/index/detil');?>" + '/id/' +id;
-        console.log(url);
-        window.location.href= url;
-        // $.post("<?php echo U('index.php/Web/index/detil');?>",{'id':id},function(result){
-        //     window.loction.href="U('index.php/Web/index/detil"
-        // });        
+        window.location.href= url;       
     }
 
 </script>

@@ -7,9 +7,28 @@
 		text-align: center;
 
 	}
-		.htmlcontent{
-			margin: 20px;
-		}
+	html,body{
+		width: 100%;
+	}
+	p{
+		text-overflow:pre-wrap;
+		word-break:break-all ;
+		text-overflow: pre-wrap;/* IE/Safari */
+		-ms-text-overflow: pre-wrap;
+		-o-text-overflow: pre-wrap;/* Opera */
+		overflow: hidden;
+	}
+	.htmlcontent{
+		margin: 20px;
+		white-space:nowrap;
+		max-width: 100%;
+		text-overflow:pre-wrap;
+		word-break:break-all ;
+		text-overflow: pre-wrap;/* IE/Safari */
+		-ms-text-overflow: pre-wrap;
+		-o-text-overflow: pre-wrap;/* Opera */
+		overflow: hidden;
+	}
 	</style>
 	<h4 class="title">{$json.title}</h4>
 	<div class="container" id="htmlcontent">
